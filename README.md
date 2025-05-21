@@ -9,8 +9,8 @@
 
 ### About Me
 
-- I’m currently learning **Next.js**
-- I enjoy working with **CSS** and **JavaScript**
+- I’m currently exploring **Machine Learning / AI**
+- I enjoy working with **CSS**, **JavaScript**, and modern web technologies
 - You can reach me at: **rajraman21211@gmail.com**
 
 ---
@@ -48,16 +48,10 @@
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
   </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
+  </a>
+  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" width="40" height="40"/>
+  </a>
 </p>
-
----
-
-### Stats
-
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rajraman&show_icons=true&theme=default&hide_border=true" alt="GitHub stats"/>
-</p>
-<p align="left">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajraman&theme=default&hide_border=true" alt="GitHub streak"/>
-</p>
-
